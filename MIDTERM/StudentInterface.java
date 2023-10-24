@@ -9,7 +9,7 @@ class StudentInterface{
    
    System.out.print("Enter First Name: ");
    sOne.setFirstName(sc.nextLine());
-   System.out.print("nter Middle Name: ");
+   System.out.print("Enter Middle Name: ");
    sOne.setMiddleName(sc.nextLine());
    System.out.print("Enter Last Name: ");
    sOne.setLastName(sc.nextLine());
